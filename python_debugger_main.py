@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import os
 import openai
 from dotenv import load_dotenv
@@ -160,10 +154,3 @@ def main():
 if __name__ == "__main__":
     main()
            
-
-
-# In[ ]:
-
-
-
-
