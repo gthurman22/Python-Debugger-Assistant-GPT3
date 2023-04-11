@@ -3,8 +3,7 @@ Below are some Screen Shots of the OpenAI assistant. Pretty handy! Be sure to re
 
 ![call_API_directions_website](https://user-images.githubusercontent.com/120196340/231048662-afec6f71-ba3e-4098-9df0-161f37dc9732.png)
 
-![directions_API_2](https://user-images.githubusercontent.com/120196340/231048702-ee04ae4f-2f17-4901-8d61-968559692b16.png)
-
+![directions_API_2](https://user-images.githubusercontent.com/120196340/231049389-233b3caa-ed21-4990-ac83-3f032c0124a1.png)
 
 ![awesome_example_screen](https://user-images.githubusercontent.com/120196340/231044398-a4da4d5a-ca94-4296-bd9e-0e04d68ef8b1.png)
 
