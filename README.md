@@ -1,5 +1,5 @@
 # Python-Debugger-Assistant-GPT3
-Below are some Screen Shots of the OpenAI assistant. Pretty handy! 
+Below are some Screen Shots of the OpenAI assistant. Pretty handy! Be sure to read the 'requirements.txt' file :)
 
 ![call_API_directions_website](https://user-images.githubusercontent.com/120196340/231048662-afec6f71-ba3e-4098-9df0-161f37dc9732.png)
 
