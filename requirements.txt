@@ -2,6 +2,8 @@ import os (Standard Python library, no need to install)
 pip install openai (reference link here) https://platform.openai.com/docs/libraries
 pip install colorama or conda install -c anaconda colorama (reference here) https://pypi.org/project/colorama/ 
 Create an Open AI account if you don't have one, mess around with the playground. 
+Quickest way to navigate is just by Google (gpt3) OpenAI
+At the time of this posting, there is not an available gpt4 API available, so we choose 3 model (davinci)
 Click your name, and then request API so you can call it inside the code to make this project work. 
 Be SURE not to include your private API in your code if you are sharing! :) 
 I always recommend to store it in a .txt file and put it in the same directory as your project. 
